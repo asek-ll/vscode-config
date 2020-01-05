@@ -1,0 +1,10 @@
+{
+    "editor.fontSize": 18,
+    "editor.fontFamily": "'Ubuntu Mono', 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+    "telemetry.enableTelemetry": false,
+    "vim.easymotion": true,
+    "vim.useSystemClipboard": true,
+    "vim.hlsearch": true,
+    "workbench.editor.enablePreview": false,
+    "workbench.startupEditor": "welcomePage"
+}
